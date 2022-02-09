@@ -1,0 +1,1 @@
+Vous ne pourrez pas jouer sans être sur un serveur (par example live-server de studio code)
