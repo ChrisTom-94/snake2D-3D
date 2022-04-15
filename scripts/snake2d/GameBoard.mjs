@@ -1,5 +1,5 @@
-import { Snake } from "./Snake.js";
-import { GamePanel } from "./GamePanel.js";
+import { Snake } from "./Snake.mjs";
+import { GamePanel } from "./GamePanel.mjs";
 import { getRandomInt } from "../functions.js";
 
 class GameBoard {

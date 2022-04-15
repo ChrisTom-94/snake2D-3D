@@ -1,4 +1,4 @@
-import { Ring } from "./Ring.js";
+import { Ring } from "./Ring.mjs";
 import { getRandomInt } from "../functions.js";
 
 class Snake {

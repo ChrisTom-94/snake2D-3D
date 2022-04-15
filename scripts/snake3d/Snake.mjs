@@ -1,5 +1,5 @@
-import { Ring } from "./Ring.js";
-import { GameBoard } from "./Gameboard.js";
+import { Ring } from "./Ring.mjs";
+import { GameBoard } from "./Gameboard.mjs";
 import { getRandomInt } from "../functions.js";
 
 class Snake {

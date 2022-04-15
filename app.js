@@ -1,5 +1,5 @@
-import { GameBoard as GameBoard3d } from "./scripts/snake3d/Gameboard.js";
-import { GameBoard as GameBoard2d } from "./scripts/snake2d/Gameboard.js";
+import { GameBoard as GameBoard3d } from "./scripts/snake3d/Gameboard.mjs";
+import { GameBoard as GameBoard2d } from "./scripts/snake2d/GameBoard.mjs";
 import { toggleFullScreen, detectWebGLContext } from "./scripts/functions.js";
 
 if (!localStorage.mode) localStorage.mode = "3d";
