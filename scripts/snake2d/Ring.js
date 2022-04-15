@@ -56,4 +56,4 @@ class Ring {
     }
 }
 
-export { Ring };
+export default Ring;

@@ -194,4 +194,4 @@ class GamePanel {
     }
 }
 
-export { GamePanel };
+export default GamePanel;

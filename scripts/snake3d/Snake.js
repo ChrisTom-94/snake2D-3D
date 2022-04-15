@@ -162,4 +162,4 @@ class Snake {
     }
 }
 
-export { Snake };
+export default Snake;
